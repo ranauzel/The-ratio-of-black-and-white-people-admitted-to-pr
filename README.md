@@ -1,4 +1,4 @@
-
+Aykırı Değer Analizi ile ilgili daha fazla bilgi almak isterseniz blog sayfamı ziyaret edebilirsiniz. https://www.ranablog.blog/posts/5
 ### Aykırı Değer Tespiti ve p-değeri Hesaplama
 Veri Seti Kaggle'den alınan "https://www.kaggle.com/datasets/konradb/prison-population-in-the-us?select=admissions_releases_states.csv" veri setinden faydalanılmıştır. Bu veri setinde Hapse giren beyaz, siyahi  bireyler ile hapisten çıkanlar arasında bir ilişki oldup olmadığı incelenmiştir. Veri setinde detaylı olarak hapisene koşulları, suç oranlarının nedenleri gibi alt bilgilere sahip olunmadığı için kesin olarak bir çıkarım yapılmamaktadır.Ancak veri ön işleme yöntemlerini kullanarak bir veri analizi gerçekleştirilmiştir.
 
